@@ -15,7 +15,7 @@ sections:
       # text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
       primary_action:
         text: Download
-        url: https://hugoblox.com/templates/
+        url: https://github.com/michcio53/contextai_public/releases/download/1.0.0%2B1/ContextAI.dmg
         icon: rocket-launch
       # secondary_action:
       #   text: Read the docs
@@ -112,7 +112,7 @@ sections:
       text: $10 USD per user. One week free
       button:
         text: Buy license
-        url: https://hugoblox.com/templates/
+        url: https://savviness.lemonsqueezy.com/buy/0c97cb21-5c25-4a33-a770-a85979eb6feb
   # - block: cta-image-paragraph
   #   id: solutions
   #   content:
